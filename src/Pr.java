@@ -1,4 +1,3 @@
-package src;
 
 /**
  * The printer class makes typing System.out.println(); way easier, by offering a new way to print to the command line.
